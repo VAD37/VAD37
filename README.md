@@ -16,7 +16,7 @@ _I cherish this timeline_
 - First program I ever wrote [Flickr-Test-Image-Uploader](https://github.com/VAD37/Flickr-Test-Image-Uploader). Bulk python script to stealthily store images on Flickr and embed those URLs on other websites to save storage space.
 - Time I spent on a mobile game taught me SWE and lots of random skills. [Stickman Master: Shadow Fight](https://play.google.com/store/apps/details?id=com.unimob.stickman.master.shadow)
 - A jenkins build script for Unity somehow got 11 stars from Chinese devs, back when no simple build solution existed on Github yet. [unity-jenkinsfile](https://github.com/VAD37/unity-jenkinsfile)
-- I randomly quit being a game dev and started learning JS, TS, joining random hackathons
+- I randomly quit being a game dev and started learning TypeScript, joining random hackathons
   - a fun web3 whitepaper. my attempt at fair game economics that was not a web3 ponzi. _whatever_ I don't recall details. [the-dark-forest](https://github.com/VAD37/the-dark-forest)
   - lost money building an auto-bot for a web3 game. So I took the time to dabble in smart contract vulnerabilities instead
 - Somehow joined the early wave of Code4rena when web3 security seriously became a thing. I skipped most of crypto wild ride. What I got is small [$50K bounties](https://audits.sherlock.xyz/watson/vad37)
