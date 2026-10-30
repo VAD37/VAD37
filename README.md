@@ -24,6 +24,7 @@ _I cherish this timeline_
 ## dev hobbies
 
 - experiment stuff
+  - [Atlas](https://atlas.vad37.com/): playing around with embedding LLM and unstructured data of 10+ million forum posts
   - [CTFs in web3](https://github.com/VAD37/security-research-archive)
   - nugreyhats: testing LLM capabilities on OWASP Security [greyctf-2026](https://github.com/VAD37/greyctf-2026)
   - ComfyUI and open models on civitAI
