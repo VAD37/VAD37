@@ -12,8 +12,8 @@ Links for stalkers:
 
 ## Fun Portfolio
 - [2026-10-Atlas](https://atlas.vad37.com/): playing around with embedding LLM and try to analyze unstructured data of 10+ million forum posts
-- [2026-09-hair](https://vad37.github.io/2026-09-07-hair-research/): give agent orchestration chrome and vague direction of image research to see how it go.
-- [2026-09-desktop-research](https://github.com/VAD37/market-research-2026-09-20): give agent orchestration chrome 1000$ API budget to do market research and see what you get.
+- [2026-09-hair](https://vad37.github.io/2026-09-07-hair-research/): can basic Claude Anthropic agent orchestration do image research?
+- [2026-09-desktop-research](https://github.com/VAD37/market-research-2026-09-20): throw $1000 API budget at agent orchestration with browser to do market research and see what you get.
 - [greyctf-2026](https://github.com/VAD37/greyctf-2026): testing Anthropic LLM OWASP Security capabilities on live online CTFs contest
 - [4 years working as auditor and bug bounties in web3](https://github.com/VAD37/security-research-archive)
 ## my journey
