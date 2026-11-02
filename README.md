@@ -1,14 +1,14 @@
 Welcome to my humble corner of GitHub.
-Links for stalkers:
-
-- blog: <https://blog.vad37.com>
-- web3 bounties: [sherlock](https://audits.sherlock.xyz/watson/vad37)
-- linkedin that I rarely touch: <https://www.linkedin.com/in/vad37/>
 
 ## whoami
 
 Just a random security researcher for the last 4 years, experience spanning game, web3, swe.
-Now I enjoy LLM advancement allow me to build a portfolio to learn about making Product.
+Now I enjoy LLM advancement allow me to build a portfolio to learn more about making Product and what make good engineer in changing time.
+
+Links for stalkers:
+- blog: <https://blog.vad37.com>
+- web3 bounties: [sherlock](https://audits.sherlock.xyz/watson/vad37)
+- linkedin that I rarely touch: <https://www.linkedin.com/in/vad37/>
 
 ## Fun Portfolio
 - [2026-10-Atlas](https://atlas.vad37.com/): playing around with embedding LLM and try to analyze unstructured data of 10+ million forum posts
